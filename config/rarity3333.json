@@ -1,0 +1,2968 @@
+[
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Magenta",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Joker Suit",
+        "rarityScore": 10.648562300319488
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell 3",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Eyes",
+        "rarityScore": 6.149446494464945
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      { "trait_type": "Head", "value": "Orange Cap", "rarityScore": 22.22 },
+      {
+        "trait_type": "Earring",
+        "value": "No Earring ",
+        "rarityScore": 6.459302325581396
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 92.43298009977413,
+    "token_id": "1",
+    "image": "https://gateway.ipfs.io/ipfs/QmZtH8Y5kywdGgnYSE41wsQ6W85saCtxN3bfNBN6ZF1nZF",
+    "Rank": 1
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red",
+        "rarityScore": 12.577358490566038
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Joker Suit",
+        "rarityScore": 10.648562300319488
+      },
+      {
+        "trait_type": "Face",
+        "value": "Chucky Face",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Eyes",
+        "rarityScore": 6.149446494464945
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "Orange Cap", "rarityScore": 22.22 },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 87.65296060036216,
+    "token_id": "2",
+    "image": "https://gateway.ipfs.io/ipfs/QmdB5sC6RyRKBPdJKbiem8VhqdBTJ69hR7RQQBmpta3Qtv",
+    "Rank": 2
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "rarityScore": 12.673003802281368
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Black Devil Fur",
+        "rarityScore": 38.310344827586206
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Green Shirt",
+        "rarityScore": 14.428571428571427
+      },
+      {
+        "trait_type": "Face",
+        "value": "Rare Black Swell",
+        "rarityScore": 37.44943820224719
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Light Blue Cap",
+        "rarityScore": 32.04807692307692
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 159.50526963156867,
+    "token_id": "3",
+    "image": "https://gateway.ipfs.io/ipfs/QmVbaSSdUjSDo8b2uDXJFGzbDqkGy3SzV9JP5iELQpenkQ",
+    "Rank": 3
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Yellow",
+        "rarityScore": 12.530075187969924
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Swell Fur",
+        "rarityScore": 10.448275862068964
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Suit",
+        "rarityScore": 10.892156862745097
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Swell",
+        "rarityScore": 15.359447004608294
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Penny Wise Eyes",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "No Hair:Hat", "rarityScore": 33.33 },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 107.31534822241315,
+    "token_id": "4",
+    "image": "https://gateway.ipfs.io/ipfs/QmVaGCN1DCpFmje8LPgzBzpRJSnwpLrxqTgyVVqcGw3sCt",
+    "Rank": 4
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Khaki",
+        "rarityScore": 12.29889298892989
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Orange Chimp Fur",
+        "rarityScore": 19.49122807017544
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt 3",
+        "rarityScore": 13.439516129032258
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell 3",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Frosted Pennywise Hair",
+        "rarityScore": 72.45652173913044
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 153.97115485613594,
+    "token_id": "5",
+    "image": "https://gateway.ipfs.io/ipfs/Qmf8NoijKLYpnc2jYXxynpnQQj2mg4mA752ehWDRBwsrxn",
+    "Rank": 5
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Khaki",
+        "rarityScore": 12.29889298892989
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Purple Fur",
+        "rarityScore": 22.82876712328767
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Green Shirt",
+        "rarityScore": 14.428571428571427
+      },
+      {
+        "trait_type": "Face",
+        "value": "Rare Yeti Swell",
+        "rarityScore": 29.236842105263158
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "Green Joker Hair", "rarityScore": 33 },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 133.75098059360303,
+    "token_id": "6",
+    "image": "https://gateway.ipfs.io/ipfs/QmcUJP7REdUtnez1pex6om7rU1rrX5qSMfXN1UEiY9nvDB",
+    "Rank": 6
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red",
+        "rarityScore": 12.577358490566038
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White Joker Fur",
+        "rarityScore": 19.155172413793103
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Suit",
+        "rarityScore": 10.892156862745097
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Face",
+        "rarityScore": 12.770114942528735
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Light Blue Cap",
+        "rarityScore": 32.04807692307692
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 109.29173830339589,
+    "token_id": "7",
+    "image": "https://gateway.ipfs.io/ipfs/QmNzyN1ca4meLi27ZQrg21a6L4iuyNPz9mmLqwLGooyqyr",
+    "Rank": 7
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Zombie Fur Blue",
+        "rarityScore": 20.83125
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Green Shirt",
+        "rarityScore": 14.428571428571427
+      },
+      {
+        "trait_type": "Face",
+        "value": "Venom",
+        "rarityScore": 18.21311475409836
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bursted Eyes",
+        "rarityScore": 6.509765624999999
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      { "trait_type": "Head", "value": "Orange Cap", "rarityScore": 22.22 },
+      {
+        "trait_type": "Earring",
+        "value": "No Earring ",
+        "rarityScore": 6.459302325581396
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 112.14584212674399,
+    "token_id": "8",
+    "image": "https://gateway.ipfs.io/ipfs/QmRYRWTGoxzvBabTZbxGiGM6ZyUpofLH8eu7thWxVph2cQ",
+    "Rank": 8
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Swell Fur",
+        "rarityScore": 10.448275862068964
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Suit",
+        "rarityScore": 10.892156862745097
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Swell",
+        "rarityScore": 15.359447004608294
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "Orange Cap", "rarityScore": 22.22 },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 92.26910065942643,
+    "token_id": "9",
+    "image": "https://gateway.ipfs.io/ipfs/QmRyXVwyAqTvhGEbivKwnpFdKKT3NN8ij5nDHgWasJCHJK",
+    "Rank": 9
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Khaki",
+        "rarityScore": 12.29889298892989
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White Joker Fur",
+        "rarityScore": 19.155172413793103
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Suit",
+        "rarityScore": 10.892156862745097
+      },
+      {
+        "trait_type": "Face",
+        "value": "Rare Gold Smile",
+        "rarityScore": 31.443396226415096
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "Green Cap", "rarityScore": 22.22 },
+      {
+        "trait_type": "Earring",
+        "value": "No Earring ",
+        "rarityScore": 6.459302325581396
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 117.8921646301204,
+    "token_id": "10",
+    "image": "https://gateway.ipfs.io/ipfs/QmbLBpwwRyy4SnsQh4jNTNqLeA6pErb7GbNS5Enyv6h8AY",
+    "Rank": 10
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Zombie Fur Blue",
+        "rarityScore": 20.83125
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Joker Suit",
+        "rarityScore": 10.648562300319488
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 3",
+        "rarityScore": 10.383177570093459
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple Cap",
+        "rarityScore": 26.039062499999996
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 101.33992805253871,
+    "token_id": "11",
+    "image": "https://gateway.ipfs.io/ipfs/QmRUmQuAnQ2qX5SFW197mmimAWEB1gH8DStkTbBqu8kAoc",
+    "Rank": 11
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Pink Shirt",
+        "rarityScore": 10.963815789473683
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 2",
+        "rarityScore": 12.968871595330741
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Penny Wise Eyes",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Cap",
+        "rarityScore": 20.574074074074076
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 91.90891474444796,
+    "token_id": "12",
+    "image": "https://gateway.ipfs.io/ipfs/QmNeg67ApBT4gNBaTBkDWo34m1XodDakopdgVFx8GWSXKY",
+    "Rank": 12
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red",
+        "rarityScore": 12.577358490566038
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Swell Fur",
+        "rarityScore": 10.448275862068964
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Joker Suit",
+        "rarityScore": 10.648562300319488
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 2",
+        "rarityScore": 12.968871595330741
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Eyes",
+        "rarityScore": 6.149446494464945
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Neon Pink Pennywise Hair",
+        "rarityScore": 41.6625
+      },
+      {
+        "trait_type": "Earring",
+        "value": "No Earring ",
+        "rarityScore": 6.459302325581396
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 110.24432504917753,
+    "token_id": "13",
+    "image": "https://gateway.ipfs.io/ipfs/QmTbNsevBBePVbC3SeBSe4yJhRpSDXzgNFNvwpHuT6m74K",
+    "Rank": 13
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "rarityScore": 12.673003802281368
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue Swell",
+        "rarityScore": 11.073089700996677
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Joker Suit",
+        "rarityScore": 10.648562300319488
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell",
+        "rarityScore": 10.383177570093459
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Joker Hair",
+        "rarityScore": 31.443396226415096
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Hook Earring ",
+        "rarityScore": 64.09615384615384
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 155.74062725891577,
+    "token_id": "14",
+    "image": "https://gateway.ipfs.io/ipfs/QmfVHiNe2dmv8ZscyUA1RcqzP8XRNQN7ENVUZC3yLHRpjY",
+    "Rank": 14
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Penny Wise Fur",
+        "rarityScore": 10.00900900900901
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Joker Suit",
+        "rarityScore": 10.648562300319488
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 2",
+        "rarityScore": 12.968871595330741
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Joker Eye",
+        "rarityScore": 12.120000000000001
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      { "trait_type": "Head", "value": "Purple Hat", "rarityScore": 34.71875 },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 110.24959800590253,
+    "token_id": "15",
+    "image": "https://gateway.ipfs.io/ipfs/QmTCobotTrjN2tDRy6W2ge8Y7BbT4DuFn4XN6s7q4CB75W",
+    "Rank": 15
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "rarityScore": 12.673003802281368
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Shirt",
+        "rarityScore": 12.48314606741573
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell 3",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Super Saiyan Pennywise Hair",
+        "rarityScore": 70.91489361702128
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 141.19357666475463,
+    "token_id": "16",
+    "image": "https://gateway.ipfs.io/ipfs/QmX9z6LSz3WapE4jTZPvxySAWDf8gYQ4xJwV4s7WbGPgxz",
+    "Rank": 16
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "rarityScore": 11.493103448275862
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Venom Fur",
+        "rarityScore": 12.48314606741573
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black Suit",
+        "rarityScore": 13.659836065573769
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Face",
+        "rarityScore": 12.770114942528735
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Pennywise Hair",
+        "rarityScore": 41.6625
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 114.026607471345,
+    "token_id": "17",
+    "image": "https://gateway.ipfs.io/ipfs/QmWtn8PqAMgKxN61KvCRxbS9hLdd1qJ327292HfhrNEFe1",
+    "Rank": 17
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Penny Wise Fur",
+        "rarityScore": 10.00900900900901
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Suit",
+        "rarityScore": 19.377906976744185
+      },
+      {
+        "trait_type": "Face",
+        "value": "Venom",
+        "rarityScore": 18.21311475409836
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Pink Joker Hair",
+        "rarityScore": 28.008403361344538
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 108.78585326902508,
+    "token_id": "18",
+    "image": "https://gateway.ipfs.io/ipfs/QmSj2RQPSVx5sk8oAWcS2DYwQtvaLXZU4XevC9Ra4hCwWK",
+    "Rank": 18
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "rarityScore": 12.673003802281368
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Swell Fur",
+        "rarityScore": 10.448275862068964
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Pennywise Outfit",
+        "rarityScore": 26.879032258064516
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Face",
+        "rarityScore": 12.770114942528735
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Eyes",
+        "rarityScore": 6.149446494464945
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Cap",
+        "rarityScore": 20.574074074074076
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blue Earring",
+        "rarityScore": 9.362359550561797
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 108.18631496489036,
+    "token_id": "19",
+    "image": "https://gateway.ipfs.io/ipfs/QmQbksPZ2QN1P9gNz3HewY4We3Upkvnggy5TpMipemmBU1",
+    "Rank": 19
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red",
+        "rarityScore": 12.577358490566038
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Black Devil Fur",
+        "rarityScore": 38.310344827586206
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Green Shirt",
+        "rarityScore": 14.428571428571427
+      },
+      {
+        "trait_type": "Face",
+        "value": "Rare Radioactive Swell",
+        "rarityScore": 29.495575221238937
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown Hat",
+        "rarityScore": 31.742857142857144
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 148.61276429875528,
+    "token_id": "20",
+    "image": "https://gateway.ipfs.io/ipfs/QmPqj1Dg2nApdoPvrnkrULqhB3xZRGxQKCmx2EFmwzzB8y",
+    "Rank": 20
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue Swell",
+        "rarityScore": 11.073089700996677
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black Suit",
+        "rarityScore": 13.659836065573769
+      },
+      {
+        "trait_type": "Face",
+        "value": "Rare Radioactive Swell",
+        "rarityScore": 29.495575221238937
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Eyes",
+        "rarityScore": 6.149446494464945
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Grey Chucky Hair",
+        "rarityScore": 98.02941176470588
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 185.70074110024885,
+    "token_id": "21",
+    "image": "https://gateway.ipfs.io/ipfs/QmQzSnG5QY4A3zz4ow8L1a4266PThoa7j6iQRKJqGfkU96",
+    "Rank": 21
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Magenta",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Black Devil Fur",
+        "rarityScore": 38.310344827586206
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt",
+        "rarityScore": 10.614649681528663
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Face",
+        "rarityScore": 12.770114942528735
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "Green Cap", "rarityScore": 22.22 },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 117.48388414187257,
+    "token_id": "22",
+    "image": "https://gateway.ipfs.io/ipfs/Qmaxz3T9FLWNLjUe9dFAZArPieSirqTL4MutCWbFRn5Hvw",
+    "Rank": 22
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "rarityScore": 12.673003802281368
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue Swell",
+        "rarityScore": 11.073089700996677
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Pink Shirt",
+        "rarityScore": 10.963815789473683
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Face",
+        "rarityScore": 12.770114942528735
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Orange Pennywise Hair",
+        "rarityScore": 26.452380952380953
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 95.89031213521233,
+    "token_id": "23",
+    "image": "https://gateway.ipfs.io/ipfs/QmVoe7nBupSnV3dxaMxrNWYmcLHrV1CqjUyTVQMbH2JwXC",
+    "Rank": 23
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan",
+        "rarityScore": 12.819230769230769
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Orange Chimp Fur",
+        "rarityScore": 19.49122807017544
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Swell Shirt",
+        "rarityScore": 33.66666666666667
+      },
+      {
+        "trait_type": "Face",
+        "value": "Chucky Face",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Neon Purple Pennywise Hair",
+        "rarityScore": 39.67857142857143
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Green Earring",
+        "rarityScore": 14.36637931034483
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 144.4347295100523,
+    "token_id": "24",
+    "image": "https://gateway.ipfs.io/ipfs/QmPsz4vQiiiDqzDNwNBpgSLecAuj9dxkezqJvttPUH8EQF",
+    "Rank": 24
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green",
+        "rarityScore": 12.390334572490705
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Venom Fur",
+        "rarityScore": 12.48314606741573
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Rare Gold Suit",
+        "rarityScore": 34.71875
+      },
+      {
+        "trait_type": "Face",
+        "value": "Chucky Face",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      { "trait_type": "Head", "value": "Grey Cap", "rarityScore": 22.22 },
+      {
+        "trait_type": "Earring",
+        "value": "No Earring ",
+        "rarityScore": 6.459302325581396
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 115.43116200767058,
+    "token_id": "25",
+    "image": "https://gateway.ipfs.io/ipfs/QmdyY1Tg6WZRwzwamNcHo9MYPBxfy3T1vUJGiCNJVGnJJk",
+    "Rank": 25
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red",
+        "rarityScore": 12.577358490566038
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Purple Fur",
+        "rarityScore": 22.82876712328767
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Suit",
+        "rarityScore": 10.892156862745097
+      },
+      {
+        "trait_type": "Face",
+        "value": "Rare Gold Smile",
+        "rarityScore": 31.443396226415096
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bursted Eyes",
+        "rarityScore": 6.509765624999999
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Neon Pink Pennywise Hair",
+        "rarityScore": 41.6625
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 144.50519769613126,
+    "token_id": "26",
+    "image": "https://gateway.ipfs.io/ipfs/QmPJddnZEPsJcLZ7o4h7Y5GNYWYnyhCxrVRNN4uFynLazd",
+    "Rank": 26
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Zombie Green Fur",
+        "rarityScore": 25.638461538461538
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt",
+        "rarityScore": 10.614649681528663
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red Mouth",
+        "rarityScore": 9.441926345609065
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bursted Eyes",
+        "rarityScore": 6.509765624999999
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Rare Golden Cap",
+        "rarityScore": 175.42105263157893
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 254.81908743506222,
+    "token_id": "27",
+    "image": "https://gateway.ipfs.io/ipfs/QmTL8ur6xmZ9UFHv2cwk3b6FSWu5c8pR8p83SxByhVFBQD",
+    "Rank": 27
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue",
+        "rarityScore": 13.332
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Normal Fur ",
+        "rarityScore": 9.688953488372093
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Suit",
+        "rarityScore": 10.892156862745097
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red Mouth",
+        "rarityScore": 9.441926345609065
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Penny Wise Eyes",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Light Brown Joker Hair",
+        "rarityScore": 29.495575221238937
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 97.4545969855542,
+    "token_id": "28",
+    "image": "https://gateway.ipfs.io/ipfs/QmT9B3gpzRkv2upSYyeMBncfUai2v44FNMmgtWR9vg8Pxr",
+    "Rank": 28
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue",
+        "rarityScore": 13.332
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue Swell",
+        "rarityScore": 11.073089700996677
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt",
+        "rarityScore": 10.614649681528663
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 3",
+        "rarityScore": 10.383177570093459
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bursted Eyes",
+        "rarityScore": 6.509765624999999
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Grey Chucky Hair",
+        "rarityScore": 98.02941176470588
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 165.8331259452179,
+    "token_id": "29",
+    "image": "https://gateway.ipfs.io/ipfs/QmepNsKyQA6tcbKe85E4Mexi9G2D8rZ8B2Zhg8b2xCPTxs",
+    "Rank": 29
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red",
+        "rarityScore": 12.577358490566038
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue Swell",
+        "rarityScore": 11.073089700996677
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt",
+        "rarityScore": 10.614649681528663
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Swell",
+        "rarityScore": 15.359447004608294
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Grey Joker Hair",
+        "rarityScore": 35.45744680851064
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 107.19130687119308,
+    "token_id": "30",
+    "image": "https://gateway.ipfs.io/ipfs/QmNzc8Af961n9zwQzhzsNEiLE7jUquPmteDM4C5sbygpt9",
+    "Rank": 30
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Yellow",
+        "rarityScore": 12.530075187969924
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt 3",
+        "rarityScore": 13.439516129032258
+      },
+      {
+        "trait_type": "Face",
+        "value": "Venom 3",
+        "rarityScore": 42.73076923076923
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blonde Chucky Hair",
+        "rarityScore": 37.03333333333333
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 139.29661731351018,
+    "token_id": "31",
+    "image": "https://gateway.ipfs.io/ipfs/QmfYCJPHJHy5W2aPRfB4rMjR9L9eMJYSRo16kwpjuZ9rQ9",
+    "Rank": 31
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "rarityScore": 12.673003802281368
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Black Devil Fur",
+        "rarityScore": 38.310344827586206
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt 3",
+        "rarityScore": 13.439516129032258
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 2",
+        "rarityScore": 12.968871595330741
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Brown Hat",
+        "rarityScore": 31.742857142857144
+      },
+      {
+        "trait_type": "Earring",
+        "value": "No Earring ",
+        "rarityScore": 6.459302325581396
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 133.8891631627242,
+    "token_id": "32",
+    "image": "https://gateway.ipfs.io/ipfs/QmXs6edfMZxxKJSZs42DZgYSthsVLxv2vNxiWEYFK2gnKU",
+    "Rank": 32
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan",
+        "rarityScore": 12.819230769230769
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Normal Fur ",
+        "rarityScore": 9.688953488372093
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black Suit",
+        "rarityScore": 13.659836065573769
+      },
+      {
+        "trait_type": "Face",
+        "value": "Venom",
+        "rarityScore": 18.21311475409836
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Joker Eye",
+        "rarityScore": 12.120000000000001
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "No Hair:Hat", "rarityScore": 33.33 },
+      {
+        "trait_type": "Earring",
+        "value": "Blue Earring",
+        "rarityScore": 9.362359550561797
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 118.52350260868275,
+    "token_id": "33",
+    "image": "https://gateway.ipfs.io/ipfs/Qmbka3dEL1UnmjMUQDwgUvnyikYhnATrGWcQm83RLNvEkJ",
+    "Rank": 33
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Devil Red Fur",
+        "rarityScore": 42.73076923076923
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt",
+        "rarityScore": 10.614649681528663
+      },
+      {
+        "trait_type": "Face",
+        "value": "Rare Radioactive Swell",
+        "rarityScore": 29.495575221238937
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Joker Eye",
+        "rarityScore": 12.120000000000001
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Neon Purple Pennywise Hair",
+        "rarityScore": 39.67857142857143
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 161.98420541242416,
+    "token_id": "34",
+    "image": "https://gateway.ipfs.io/ipfs/QmbF3qdFovXXtThNsanHSzA6FNtfLwQnHjfsa5xkEZHoqb",
+    "Rank": 34
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Magenta",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Venom Fur",
+        "rarityScore": 12.48314606741573
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Singlet",
+        "rarityScore": 24.87313432835821
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell 3",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "Green Joker Hair", "rarityScore": 33 },
+      {
+        "trait_type": "Earring",
+        "value": "No Earring ",
+        "rarityScore": 6.459302325581396
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 115.83570527020633,
+    "token_id": "35",
+    "image": "https://gateway.ipfs.io/ipfs/QmTg1ducxs5yh6UHQGcmoZi7YnddEZkuyRATt4Wii1pBav",
+    "Rank": 35
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "rarityScore": 12.673003802281368
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue Swell",
+        "rarityScore": 11.073089700996677
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Green Shirt",
+        "rarityScore": 14.428571428571427
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red Mouth",
+        "rarityScore": 9.441926345609065
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Purple Cap",
+        "rarityScore": 26.039062499999996
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blue Earring",
+        "rarityScore": 9.362359550561797
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 101.26652665618002,
+    "token_id": "36",
+    "image": "https://gateway.ipfs.io/ipfs/QmVcf62XQVVybhfDjRU3DDjBhhS6qS5gdkipkzCve4igUR",
+    "Rank": 36
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green",
+        "rarityScore": 12.390334572490705
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Penny Wise Fur",
+        "rarityScore": 10.00900900900901
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Suit",
+        "rarityScore": 19.377906976744185
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Swell",
+        "rarityScore": 15.359447004608294
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Rare Golden Cap",
+        "rarityScore": 175.42105263157893
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 254.39060939170236,
+    "token_id": "37",
+    "image": "https://gateway.ipfs.io/ipfs/QmRQPSwq95LBAR84ZizX6CaTK5Xx6R7JjYLyu8hSWNC7xK",
+    "Rank": 37
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red",
+        "rarityScore": 12.577358490566038
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Rose Pink Fur",
+        "rarityScore": 30.577981651376145
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Suit",
+        "rarityScore": 19.377906976744185
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Swell",
+        "rarityScore": 15.359447004608294
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Hat",
+        "rarityScore": 24.50735294117647
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Green Earring",
+        "rarityScore": 14.36637931034483
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 132.31471793775148,
+    "token_id": "38",
+    "image": "https://gateway.ipfs.io/ipfs/QmcjrSWNgEwKHfUPzuUxPSjWYi1PuLP5Zck9YsMRYo6c1n",
+    "Rank": 38
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "rarityScore": 11.493103448275862
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Swell Fur",
+        "rarityScore": 10.448275862068964
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt 2",
+        "rarityScore": 19.605882352941176
+      },
+      {
+        "trait_type": "Face",
+        "value": "Chucky Face",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Pennywise Hair",
+        "rarityScore": 26.039062499999996
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 98.3836953030695,
+    "token_id": "39",
+    "image": "https://gateway.ipfs.io/ipfs/QmfTU7jUWTKn7jZ1z7VYsc5X5idHmWWuj3HJDpgobGuvPh",
+    "Rank": 39
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan",
+        "rarityScore": 12.819230769230769
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Venom Fur",
+        "rarityScore": 12.48314606741573
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Suit",
+        "rarityScore": 10.892156862745097
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell 3",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Eyes",
+        "rarityScore": 6.149446494464945
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Cap",
+        "rarityScore": 20.574074074074076
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 90.2845448494848,
+    "token_id": "40",
+    "image": "https://gateway.ipfs.io/ipfs/QmaXNvpQay627GNfYRyZGG65JjeWSMekKaquMCiUM7ahEa",
+    "Rank": 40
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Swell Fur",
+        "rarityScore": 10.448275862068964
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt",
+        "rarityScore": 10.614649681528663
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 3",
+        "rarityScore": 10.383177570093459
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Rare Golden Cap",
+        "rarityScore": 175.42105263157893
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 240.42557519252364,
+    "token_id": "41",
+    "image": "https://gateway.ipfs.io/ipfs/QmbBpWqzxFztKaw1LPcksuRijbgKCrSHEPDZdCzo8PqNUq",
+    "Rank": 41
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan",
+        "rarityScore": 12.819230769230769
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt",
+        "rarityScore": 10.614649681528663
+      },
+      {
+        "trait_type": "Face",
+        "value": "Chucky Face",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bursted Eyes",
+        "rarityScore": 6.509765624999999
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Neon Pink Pennywise Hair",
+        "rarityScore": 41.6625
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Green Earring",
+        "rarityScore": 14.36637931034483
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 115.62050331650056,
+    "token_id": "42",
+    "image": "https://gateway.ipfs.io/ipfs/QmagnyWwg34AVeXEGAxLmD1YUpmfy3Ksvo8mcB9jX1NpGx",
+    "Rank": 42
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black Suit",
+        "rarityScore": 13.659836065573769
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 3",
+        "rarityScore": 10.383177570093459
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Joker Eye",
+        "rarityScore": 12.120000000000001
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Neon Purple Pennywise Hair",
+        "rarityScore": 39.67857142857143
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 114.58857516492998,
+    "token_id": "43",
+    "image": "https://gateway.ipfs.io/ipfs/Qmbhdae9rB6bCBm3EJ6QGHhcqmBZ1QGMCnWjLGydQ35gCG",
+    "Rank": 43
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Magenta",
+        "rarityScore": 11.735915492957748
+      },
+      { "trait_type": "Fur", "value": "Polar Fur", "rarityScore": 26.664 },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Suit",
+        "rarityScore": 10.892156862745097
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Face",
+        "rarityScore": 12.770114942528735
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Penny Wise Eyes",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "Purple Hat", "rarityScore": 34.71875 },
+      {
+        "trait_type": "Earring",
+        "value": "No Earring ",
+        "rarityScore": 6.459302325581396
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 121.4346093067866,
+    "token_id": "44",
+    "image": "https://gateway.ipfs.io/ipfs/QmfAt76xosNivG9JeUuowwrWWvKw9nsG8gjvb2EvfpSsBE",
+    "Rank": 44
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Normal Fur ",
+        "rarityScore": 9.688953488372093
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Suit",
+        "rarityScore": 19.377906976744185
+      },
+      {
+        "trait_type": "Face",
+        "value": "Green Mouth 2",
+        "rarityScore": 18.516666666666666
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bursted Eyes",
+        "rarityScore": 6.509765624999999
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Orange Chucky Hair",
+        "rarityScore": 45.65753424657534
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 127.04420885662692,
+    "token_id": "45",
+    "image": "https://gateway.ipfs.io/ipfs/Qmaedho3WK1sTHYwvpZXKrHWim8fRt9fm3wGhfW5PCkWX6",
+    "Rank": 45
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rare Yellow Green",
+        "rarityScore": 128.19230769230768
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Zombie Fur Blue",
+        "rarityScore": 20.83125
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Singlet",
+        "rarityScore": 24.87313432835821
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 2",
+        "rarityScore": 12.968871595330741
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bursted Eyes",
+        "rarityScore": 6.509765624999999
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Pennywise Hair",
+        "rarityScore": 36.22826086956522
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 245.34321347602324,
+    "token_id": "46",
+    "image": "https://gateway.ipfs.io/ipfs/QmZi6cMsYFcx7zhd3KhZNKY4zGiDj4Nv2hBScuV7oNWRGb",
+    "Rank": 46
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rare Blood Stain",
+        "rarityScore": 66.66
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Zombie Green Fur",
+        "rarityScore": 25.638461538461538
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Suit",
+        "rarityScore": 19.377906976744185
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell 3",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Pennywise Hair",
+        "rarityScore": 36.22826086956522
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 181.79661407460685,
+    "token_id": "47",
+    "image": "https://gateway.ipfs.io/ipfs/QmcjAXrWHeUucrkrpuow8RgbsRa1PoRzberJvQ4wZDppSM",
+    "Rank": 47
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "rarityScore": 12.673003802281368
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White Joker Fur",
+        "rarityScore": 19.155172413793103
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Pennywise Outfit",
+        "rarityScore": 26.879032258064516
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell",
+        "rarityScore": 10.383177570093459
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Light Blue Cap",
+        "rarityScore": 32.04807692307692
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 125.56249565293984,
+    "token_id": "48",
+    "image": "https://gateway.ipfs.io/ipfs/QmfD7nbux9nR7rJ7ATvy8XhwkdtmZmm6YRfqMtmKDjtEcb",
+    "Rank": 48
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Penny Wise Fur",
+        "rarityScore": 10.00900900900901
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Suit",
+        "rarityScore": 19.377906976744185
+      },
+      {
+        "trait_type": "Face",
+        "value": "Chucky Face",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Cap",
+        "rarityScore": 20.574074074074076
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring ",
+        "rarityScore": 6.4096153846153845
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 92.28362096882393,
+    "token_id": "49",
+    "image": "https://gateway.ipfs.io/ipfs/QmVpX5rkFjewibb7EojTJeGffxmhyEcxNuAwxPhpbxtG5C",
+    "Rank": 49
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rare Gold",
+        "rarityScore": 123.44444444444444
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Normal Fur ",
+        "rarityScore": 9.688953488372093
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Pink Shirt",
+        "rarityScore": 10.963815789473683
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 3",
+        "rarityScore": 10.383177570093459
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Eyes",
+        "rarityScore": 6.149446494464945
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Neon Pink Chucky Hair",
+        "rarityScore": 83.325
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blue Earring",
+        "rarityScore": 9.362359550561797
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 262.6472053182564,
+    "token_id": "50",
+    "image": "https://gateway.ipfs.io/ipfs/QmUrjQPuTowY9BwZfaBCBn2tHeW7vgc6yt8xDyVLfM6nm9",
+    "Rank": 50
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue",
+        "rarityScore": 12.673003802281368
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Normal Fur ",
+        "rarityScore": 9.688953488372093
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Suit",
+        "rarityScore": 10.892156862745097
+      },
+      {
+        "trait_type": "Face",
+        "value": "Chucky Face",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Joker Eye",
+        "rarityScore": 12.120000000000001
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Light Blue Cap",
+        "rarityScore": 32.04807692307692
+      },
+      {
+        "trait_type": "Earring",
+        "value": "No Earring ",
+        "rarityScore": 6.459302325581396
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 102.07586308503049,
+    "token_id": "51",
+    "image": "https://gateway.ipfs.io/ipfs/QmddEE78CCxQMmfe4oXMBE6DLxP7AjYPym4evMKn3VxSN7",
+    "Rank": 51
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green",
+        "rarityScore": 12.390334572490705
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black Suit",
+        "rarityScore": 13.659836065573769
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Face",
+        "rarityScore": 12.770114942528735
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      { "trait_type": "Head", "value": "Orange Cap", "rarityScore": 22.22 },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 97.17838302794314,
+    "token_id": "52",
+    "image": "https://gateway.ipfs.io/ipfs/QmcpYBswTHh434p6sKzEpjuXgGME2sCra8wTDCx2i1CWSU",
+    "Rank": 52
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Rare Blood Stain",
+        "rarityScore": 66.66
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Joker Suit",
+        "rarityScore": 10.648562300319488
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red Mouth",
+        "rarityScore": 9.441926345609065
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blonde Chucky Hair",
+        "rarityScore": 37.03333333333333
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 160.04246319173964,
+    "token_id": "53",
+    "image": "https://gateway.ipfs.io/ipfs/QmWndxMQQna4FYmAXj12DG8jRYF6UrMsecTtwPfe8yQ6DU",
+    "Rank": 53
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Orange Chimp Fur",
+        "rarityScore": 19.49122807017544
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt",
+        "rarityScore": 10.614649681528663
+      },
+      {
+        "trait_type": "Face",
+        "value": "Normal Face",
+        "rarityScore": 12.770114942528735
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bursted Eyes",
+        "rarityScore": 6.509765624999999
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      { "trait_type": "Head", "value": "Green Joker Hair", "rarityScore": 33 },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 112.37936193772565,
+    "token_id": "54",
+    "image": "https://gateway.ipfs.io/ipfs/QmeFJqhwdpQYWgmsSFcPRVPhWcZJKx9anReprsDYGKuawE",
+    "Rank": 54
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue",
+        "rarityScore": 13.332
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Stinky Fur",
+        "rarityScore": 23.307692307692307
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Shirt",
+        "rarityScore": 12.48314606741573
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell",
+        "rarityScore": 10.383177570093459
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "Orange Cap", "rarityScore": 22.22 },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 103.83082714503242,
+    "token_id": "55",
+    "image": "https://gateway.ipfs.io/ipfs/QmfSUF2bZeDhHaiMUFDzdJaJUfjmzLDxMiQJ3DyQgq3hZd",
+    "Rank": 55
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Normal Fur ",
+        "rarityScore": 9.688953488372093
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Green Shirt",
+        "rarityScore": 14.428571428571427
+      },
+      {
+        "trait_type": "Face",
+        "value": "Rare Radioactive Swell",
+        "rarityScore": 29.495575221238937
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Swell Eyes",
+        "rarityScore": 6.218283582089552
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blonde Chucky Hair",
+        "rarityScore": 37.03333333333333
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blue Earring",
+        "rarityScore": 9.362359550561797
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 129.71091459765995,
+    "token_id": "56",
+    "image": "https://gateway.ipfs.io/ipfs/QmYVoqpU3Z9D34T1y1wN8pSAt9qYNHCK23NFWDBWMEH4up",
+    "Rank": 56
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Zombie Fur Blue",
+        "rarityScore": 20.83125
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Shirt",
+        "rarityScore": 12.48314606741573
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 3",
+        "rarityScore": 10.383177570093459
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Joker Eye",
+        "rarityScore": 12.120000000000001
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Cap",
+        "rarityScore": 20.574074074074076
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 106.17605281282655,
+    "token_id": "57",
+    "image": "https://gateway.ipfs.io/ipfs/QmNbV76roR5wPkxrkxhtcRb2rWTCkeUjodUKwjj5yKXHfs",
+    "Rank": 57
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green",
+        "rarityScore": 12.390334572490705
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Blue Swell",
+        "rarityScore": 11.073089700996677
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Joker Suit",
+        "rarityScore": 10.648562300319488
+      },
+      {
+        "trait_type": "Face",
+        "value": "Green Mouth 2",
+        "rarityScore": 18.516666666666666
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes",
+        "rarityScore": 6.0932358318098725
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Joker Hair",
+        "rarityScore": 42.73076923076923
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Hook Earring ",
+        "rarityScore": 64.09615384615384
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 174.87882013005245,
+    "token_id": "58",
+    "image": "https://gateway.ipfs.io/ipfs/QmYDbBwXPPZ7hHufWVHyLMYpKe4yueJ3XHQKrs65oa1fyq",
+    "Rank": 58
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red",
+        "rarityScore": 12.577358490566038
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Normal Fur ",
+        "rarityScore": 9.688953488372093
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Green Shirt",
+        "rarityScore": 14.428571428571427
+      },
+      {
+        "trait_type": "Face",
+        "value": "Swell 3",
+        "rarityScore": 11.735915492957748
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Joker Eye",
+        "rarityScore": 12.120000000000001
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Grey Joker Hair",
+        "rarityScore": 35.45744680851064
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange Earring",
+        "rarityScore": 6.509765624999999
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 114.54824108004809,
+    "token_id": "59",
+    "image": "https://gateway.ipfs.io/ipfs/QmWjZC9P9Rxmj5EEBTVZ1rZcNCRvPQYwT48pzUN1oqVTW4",
+    "Rank": 59
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan",
+        "rarityScore": 12.819230769230769
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Pennywise Outfit",
+        "rarityScore": 26.879032258064516
+      },
+      {
+        "trait_type": "Face",
+        "value": "Red Mouth",
+        "rarityScore": 9.441926345609065
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chucky Eyes",
+        "rarityScore": 6.265037593984962
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      { "trait_type": "Head", "value": "Green Joker Hair", "rarityScore": 33 },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 115.48941030290841,
+    "token_id": "60",
+    "image": "https://gateway.ipfs.io/ipfs/QmSyih5XDk8HEKK71ohncffTYuMm2VypcGVsMnU4QZ9ym1",
+    "Rank": 60
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Purple",
+        "rarityScore": 11.493103448275862
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Rare Purple Fur",
+        "rarityScore": 22.82876712328767
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Purple Pennywise Shirt",
+        "rarityScore": 68.0204081632653
+      },
+      {
+        "trait_type": "Face",
+        "value": "Smile 2",
+        "rarityScore": 12.968871595330741
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bursted Eyes",
+        "rarityScore": 6.509765624999999
+      },
+      {
+        "trait_type": "Brain",
+        "value": "No Brain ",
+        "rarityScore": 1.3300079808459695
+      },
+      {
+        "trait_type": "Head",
+        "value": "Grey Joker Hair",
+        "rarityScore": 35.45744680851064
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple Earring ",
+        "rarityScore": 6.300567107750473
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 172.90893785226663,
+    "token_id": "61",
+    "image": "https://gateway.ipfs.io/ipfs/QmYWhe61X8ZECLun4aGtzzr5oxSwmQbFDVsAa5PuJCMDxN",
+    "Rank": 61
+  },
+  {
+    "Attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyan",
+        "rarityScore": 12.819230769230769
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey Wounded Fur",
+        "rarityScore": 11.45360824742268
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Chucky Shirt 3",
+        "rarityScore": 13.439516129032258
+      },
+      {
+        "trait_type": "Face",
+        "value": "Rare Radioactive Swell",
+        "rarityScore": 29.495575221238937
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Penny Wise Eyes",
+        "rarityScore": 8.86436170212766
+      },
+      {
+        "trait_type": "Brain",
+        "value": "Brain ",
+        "rarityScore": 4.030229746070133
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Hat",
+        "rarityScore": 24.50735294117647
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Round Earring With Stroke ",
+        "rarityScore": 6.5610236220472435
+      },
+      { "trait_type": "TraitCount", "value": 8, "rarityScore": 8 }
+    ],
+    "Rarity": 119.17089837834617,
+    "token_id": "62",
+    "image": "https://gateway.ipfs.io/ipfs/QmTinxHVxuXf83isDA9gE7e9JufpsHCMH8FkcY9xujbBee",
+    "Rank": 62
+  }
+]
